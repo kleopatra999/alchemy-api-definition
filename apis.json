@@ -6,7 +6,7 @@
 	"tags": ["Alchemy API Stack"],
 	"created": "2016-04-29",
 	"modified": "2016-04-29",
-	"url": "http://alchemy.stack.network/",
+	"url": "http://alchemy.stack.network",
 	"specificationVersion": "0.14",
 	"apis": [{
 		"name": "Alchemy Author Extraction API",
@@ -201,7 +201,7 @@
 		}]
 	},
 	{
-		"name": "Alchemy Text Extraction (RAW) API",
+		"name": "Alchemy Text Extraction API",
 		"description": "",
 		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/alchemy-api-logo.png",
 		"humanURL": "",
@@ -209,7 +209,7 @@
 		"tags": ["Alchemy API Stack"],
 		"properties": [{
 			"type": "x-openapi-spec",
-			"url": "api-commons/alchemy-text-extraction-raw-api-openapi-spec.json"
+			"url": "api-commons/alchemy-text-extraction-api-openapi-spec.json"
 		}]
 	},
 	{
